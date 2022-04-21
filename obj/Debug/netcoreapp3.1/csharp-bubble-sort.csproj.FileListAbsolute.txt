@@ -1,0 +1,13 @@
+C:\Users\xNewz\Desktop\csharp-bubble-sort\bin\Debug\netcoreapp3.1\csharp-bubble-sort.exe
+C:\Users\xNewz\Desktop\csharp-bubble-sort\bin\Debug\netcoreapp3.1\csharp-bubble-sort.deps.json
+C:\Users\xNewz\Desktop\csharp-bubble-sort\bin\Debug\netcoreapp3.1\csharp-bubble-sort.runtimeconfig.json
+C:\Users\xNewz\Desktop\csharp-bubble-sort\bin\Debug\netcoreapp3.1\csharp-bubble-sort.runtimeconfig.dev.json
+C:\Users\xNewz\Desktop\csharp-bubble-sort\bin\Debug\netcoreapp3.1\csharp-bubble-sort.dll
+C:\Users\xNewz\Desktop\csharp-bubble-sort\bin\Debug\netcoreapp3.1\csharp-bubble-sort.pdb
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.csprojAssemblyReference.cache
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.AssemblyInfo.cs
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.dll
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.pdb
+C:\Users\xNewz\Desktop\csharp-bubble-sort\obj\Debug\netcoreapp3.1\csharp-bubble-sort.genruntimeconfig.cache

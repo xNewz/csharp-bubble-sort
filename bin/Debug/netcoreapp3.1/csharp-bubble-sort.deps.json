@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "csharp-bubble-sort/1.0.0": {
+        "runtime": {
+          "csharp-bubble-sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-bubble-sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

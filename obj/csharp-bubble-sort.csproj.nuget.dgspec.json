@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort\\csharp-bubble-sort.csproj": {}
+    "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort\\csharp-bubble-sort.csproj": {
+    "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort\\csharp-bubble-sort.csproj",
+        "projectUniqueName": "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort.csproj",
         "projectName": "csharp-bubble-sort",
-        "projectPath": "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort\\csharp-bubble-sort.csproj",
+        "projectPath": "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort.csproj",
         "packagesPath": "C:\\Users\\xNewz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\csharp-bubble-sort\\obj\\",
+        "outputPath": "C:\\Users\\xNewz\\Desktop\\csharp-bubble-sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xNewz\\AppData\\Roaming\\NuGet\\NuGet.Config",
