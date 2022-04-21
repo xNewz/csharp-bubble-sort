@@ -13,7 +13,5 @@ function main()
             end If
         end loop
     end loop
-    output a[0] + " " + a[1] + " " + a[2] + " " + a[3]
 end function
-
 ```
