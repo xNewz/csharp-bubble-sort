@@ -15,3 +15,5 @@ function main()
     end loop
 end function
 ```
+### Flowchart
+<div align="center"><img src="https://user-images.githubusercontent.com/50146617/164519628-163c8089-69fb-40f6-b4a7-3c01b5cec5b6.png"></div>
