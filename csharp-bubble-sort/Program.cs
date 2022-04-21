@@ -25,6 +25,7 @@ namespace csharp_bubble_sort
         static void Main(string[] args)
         {
             int[] arr = { 7, 4, 5, 2 };
+            Console.WriteLine("[{0}]", string.Join(", ", bubble_sort(arr, 4)));
         }
     }
 }
